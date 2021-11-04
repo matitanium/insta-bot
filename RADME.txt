@@ -1,0 +1,7 @@
+this source code has created by matitanium(matin nouryan):
+for use this program:
+1 open credentials.py and set your user and password :)
+2 open tags.txt and set your hashtags (example: instagram) with \n
+3 open comment.txt and set ur comment for send 
+4 open cmd and type (pip install requirments.txt) :D
+5 type python run.py :)))))
